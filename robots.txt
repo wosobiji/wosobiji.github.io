@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wosobiji.github.io/sitemap/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/fND/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/abI/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/plj/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/mOl/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/lCh/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/Fnl/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/paW/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/SFm/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/UYd/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/QMy/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/iRY/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/bRv/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/xWc/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/FEM/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/xWK/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/EYe/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/kBN/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/peI/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/Hos/sitemap_index.wosobiji
+Sitemap: https://wosobiji.github.io/UYO/sitemap_index.wosobiji
